@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
 .wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	IN:KA:Bengaluru:12.96:77.59:v4
@@ -13,3 +14,20 @@ commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	i9u48h2bi1uat
 commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
 commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	15-Oct-2022
 
+=======
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	IN:KA:Bengaluru:12.96:77.59:v4
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	ss0-commonswikiSession	5cv38no062rj9o0bt8vd1h1gkd63evnh
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	5cv38no062rj9o0bt8vd1h1gkd63evnh
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	15-Oct-2022
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	15-Oct-2022
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	cpPosIndex	1%401665859758%23df4837acd25756c5cd7db9b929619a68
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	15-Oct-2022
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	ss0-commonswikiSession	i9u48h2bi1uatpc244j1v7tnv3349fio
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	i9u48h2bi1uatpc244j1v7tnv3349fio
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	15-Oct-2022
+
+>>>>>>> c03d58ae6d12a70a04a0799d4c27230b15dbace9
