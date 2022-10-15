@@ -1,0 +1,88 @@
+{
+    "@graph": [
+        {
+            "@id": "sdcdata:M124229940",
+            "@type": "schema:Dataset",
+            "about": "sdc:M124229940",
+            "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+            "softwareVersion": "1.0.0",
+            "version": 696547920,
+            "dateModified": "2022-10-15T18:19:18Z"
+        },
+        {
+            "@id": "sdc:M124229940",
+            "@type": [
+                "wikibase:Mediainfo",
+                "schema:MediaObject",
+                "schema:ImageObject"
+            ],
+            "caption": {
+                "@language": "en",
+                "@value": "Aash Gates at EPCET"
+            },
+            "label": {
+                "@language": "en",
+                "@value": "Aash Gates at EPCET"
+            },
+            "encodingFormat": "image/jpeg",
+            "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aash_Gates_at_EPCET.jpg",
+            "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aash%20Gates%20at%20EPCET.jpg",
+            "contentSize": 1233849,
+            "height": 2484,
+            "width": 3358
+        }
+    ],
+    "@context": {
+        "sdcdata": "https://commons.wikimedia.org/wiki/Special:EntityData/",
+        "schema": "http://schema.org/",
+        "about": {
+            "@id": "schema:about",
+            "@type": "@id"
+        },
+        "sdc": "https://commons.wikimedia.org/entity/",
+        "cc": "http://creativecommons.org/ns#",
+        "license": {
+            "@id": "cc:license",
+            "@type": "@id"
+        },
+        "softwareVersion": {
+            "@id": "schema:softwareVersion"
+        },
+        "version": {
+            "@id": "schema:version"
+        },
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "dateModified": {
+            "@id": "schema:dateModified",
+            "@type": "xsd:dateTime"
+        },
+        "wikibase": "http://wikiba.se/ontology#",
+        "caption": {
+            "@id": "schema:caption"
+        },
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "label": {
+            "@id": "rdfs:label"
+        },
+        "encodingFormat": {
+            "@id": "schema:encodingFormat"
+        },
+        "contentUrl": {
+            "@id": "schema:contentUrl",
+            "@type": "@id"
+        },
+        "url": {
+            "@id": "schema:url",
+            "@type": "@id"
+        },
+        "contentSize": {
+            "@id": "schema:contentSize"
+        },
+        "height": {
+            "@id": "schema:height"
+        },
+        "width": {
+            "@id": "schema:width"
+        }
+    }
+}

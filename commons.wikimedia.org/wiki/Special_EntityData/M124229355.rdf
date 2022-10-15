@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:wikibase="http://wikiba.se/ontology#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:cc="http://creativecommons.org/ns#" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:wd="http://www.wikidata.org/entity/" xmlns:data="https://www.wikidata.org/wiki/Special:EntityData/" xmlns:s="http://www.wikidata.org/entity/statement/" xmlns:ref="http://www.wikidata.org/reference/" xmlns:v="http://www.wikidata.org/value/" xmlns:wdt="http://www.wikidata.org/prop/direct/" xmlns:wdtn="http://www.wikidata.org/prop/direct-normalized/" xmlns:p="http://www.wikidata.org/prop/" xmlns:ps="http://www.wikidata.org/prop/statement/" xmlns:psv="http://www.wikidata.org/prop/statement/value/" xmlns:psn="http://www.wikidata.org/prop/statement/value-normalized/" xmlns:pq="http://www.wikidata.org/prop/qualifier/" xmlns:pqv="http://www.wikidata.org/prop/qualifier/value/" xmlns:pqn="http://www.wikidata.org/prop/qualifier/value-normalized/" xmlns:pr="http://www.wikidata.org/prop/reference/" xmlns:prv="http://www.wikidata.org/prop/reference/value/" xmlns:prn="http://www.wikidata.org/prop/reference/value-normalized/" xmlns:wdno="http://www.wikidata.org/prop/novalue/" xmlns:sdc="https://commons.wikimedia.org/entity/" xmlns:sdcdata="https://commons.wikimedia.org/wiki/Special:EntityData/" xmlns:sdcs="https://commons.wikimedia.org/entity/statement/" xmlns:sdcref="https://commons.wikimedia.org/reference/" xmlns:sdcv="https://commons.wikimedia.org/value/" xmlns:sdct="https://commons.wikimedia.org/prop/direct/" xmlns:sdctn="https://commons.wikimedia.org/prop/direct-normalized/" xmlns:sdcp="https://commons.wikimedia.org/prop/" xmlns:sdcps="https://commons.wikimedia.org/prop/statement/" xmlns:sdcpsv="https://commons.wikimedia.org/prop/statement/value/" xmlns:sdcpsn="https://commons.wikimedia.org/prop/statement/value-normalized/" xmlns:sdcpq="https://commons.wikimedia.org/prop/qualifier/" xmlns:sdcpqv="https://commons.wikimedia.org/prop/qualifier/value/" xmlns:sdcpqn="https://commons.wikimedia.org/prop/qualifier/value-normalized/" xmlns:sdcpr="https://commons.wikimedia.org/prop/reference/" xmlns:sdcprv="https://commons.wikimedia.org/prop/reference/value/" xmlns:sdcprn="https://commons.wikimedia.org/prop/reference/value-normalized/" xmlns:sdcno="https://commons.wikimedia.org/prop/novalue/">
+	<rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:EntityData/M124229355">
+		<rdf:type rdf:resource="http://schema.org/Dataset"/>
+		<schema:about rdf:resource="https://commons.wikimedia.org/entity/M124229355"/>
+		<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+		<schema:softwareVersion>1.0.0</schema:softwareVersion>
+		<schema:version rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">696547922</schema:version>
+		<schema:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-10-15T18:19:18Z</schema:dateModified>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://commons.wikimedia.org/entity/M124229355">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Mediainfo"/>
+		<schema:caption xml:lang="en">Aash With Teacher</schema:caption>
+		<rdfs:label xml:lang="en">Aash With Teacher</rdfs:label>
+		<rdf:type rdf:resource="http://schema.org/MediaObject"/>
+		<rdf:type rdf:resource="http://schema.org/ImageObject"/>
+		<schema:encodingFormat>image/jpeg</schema:encodingFormat>
+		<schema:contentUrl rdf:resource="https://upload.wikimedia.org/wikipedia/commons/5/57/Aash_With_Teacher.jpg"/>
+		<schema:url rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Aash%20With%20Teacher.jpg"/>
+		<schema:contentSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109444</schema:contentSize>
+		<schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">863</schema:height>
+		<schema:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">889</schema:width>
+	</rdf:Description>
+</rdf:RDF>

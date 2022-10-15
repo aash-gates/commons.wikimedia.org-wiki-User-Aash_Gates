@@ -1,0 +1,506 @@
+{
+    "@graph": [
+        {
+            "@id": "sdcdata:M55903889",
+            "@type": "schema:Dataset",
+            "about": "sdc:M55903889",
+            "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+            "softwareVersion": "1.0.0",
+            "version": 513135346,
+            "dateModified": "2020-11-17T19:00:27Z"
+        },
+        {
+            "@id": "sdc:M55903889",
+            "@type": "wikibase:Mediainfo",
+            "P275": "wd:Q19068220",
+            "P6216": "wd:Q50423863",
+            "P4082": "wd:Q17175559",
+            "p:P275": "sdcs:M55903889-812F7A7F-40FE-4A2C-9BFE-4385CBCE335E"
+        },
+        {
+            "@id": "sdcs:M55903889-812F7A7F-40FE-4A2C-9BFE-4385CBCE335E",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P275": "wd:Q19068220"
+        },
+        {
+            "@id": "sdc:M55903889",
+            "p:P6216": "sdcs:M55903889-92FFF557-AAA4-4992-A0BE-27D4812A8869"
+        },
+        {
+            "@id": "sdcs:M55903889-92FFF557-AAA4-4992-A0BE-27D4812A8869",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P6216": "wd:Q50423863"
+        },
+        {
+            "@id": "sdc:M55903889",
+            "p:P4082": "sdcs:M55903889-9DA0080C-3AFA-4B0B-A790-85938CC335ED"
+        },
+        {
+            "@id": "sdcs:M55903889-9DA0080C-3AFA-4B0B-A790-85938CC335ED",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P4082": "wd:Q17175559"
+        },
+        {
+            "@id": "sdc:M55903889",
+            "@type": [
+                "schema:MediaObject",
+                "schema:ImageObject"
+            ],
+            "encodingFormat": "image/jpeg",
+            "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Sceatta_%28FindID_439202%29.jpg",
+            "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sceatta%20%28FindID%20439202%29.jpg",
+            "contentSize": 86819,
+            "height": 580,
+            "width": 682
+        },
+        {
+            "@id": "wd:Q19068220",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Creative Commons Attribution-ShareAlike 2.0 Generic"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Creative Commons Attribution-ShareAlike 2.0 Generic"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Creative Commons Attribution-ShareAlike 2.0 Generic"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Creative Commons license"
+            }
+        },
+        {
+            "@id": "wd:P275",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "copyright license"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "copyright license"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "copyright license"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "license under which this copyrighted work is released"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P275",
+            "claim": "p:P275",
+            "statementProperty": "ps:P275",
+            "statementValue": "psv:P275",
+            "qualifier": "pq:P275",
+            "qualifierValue": "pqv:P275",
+            "reference": "pr:P275",
+            "referenceValue": "prv:P275",
+            "novalue": "wdno:P275"
+        },
+        {
+            "@id": "p:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P275",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P275",
+            "@type": "owl:Class",
+            "complementOf": "_:298aabdb0974253ac321b0308875c924"
+        },
+        {
+            "@id": "_:298aabdb0974253ac321b0308875c924",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P275",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q50423863",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "copyrighted"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "copyrighted"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "copyrighted"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "legal state of a work as recognised as an intellectual property of an entity"
+            }
+        },
+        {
+            "@id": "wd:P6216",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "copyright status"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "copyright status"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "copyright status"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "copyright status for intellectual creations like works of art, publications, software, etc."
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P6216",
+            "claim": "p:P6216",
+            "statementProperty": "ps:P6216",
+            "statementValue": "psv:P6216",
+            "qualifier": "pq:P6216",
+            "qualifierValue": "pqv:P6216",
+            "reference": "pr:P6216",
+            "referenceValue": "prv:P6216",
+            "novalue": "wdno:P6216"
+        },
+        {
+            "@id": "p:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P6216",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P6216",
+            "@type": "owl:Class",
+            "complementOf": "_:b1252803b14cb4551e630f41e1deba59"
+        },
+        {
+            "@id": "_:b1252803b14cb4551e630f41e1deba59",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P6216",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q17175559",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Canon PowerShot G9"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Canon PowerShot G9"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Canon PowerShot G9"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "digital camera model"
+            }
+        },
+        {
+            "@id": "wd:P4082",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "captured with"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "captured with"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "captured with"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "equipment (e.g. model of camera, lens microphone), used to capture this image, video, audio, or data"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P4082",
+            "claim": "p:P4082",
+            "statementProperty": "ps:P4082",
+            "statementValue": "psv:P4082",
+            "qualifier": "pq:P4082",
+            "qualifierValue": "pqv:P4082",
+            "reference": "pr:P4082",
+            "referenceValue": "prv:P4082",
+            "novalue": "wdno:P4082"
+        },
+        {
+            "@id": "p:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P4082",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P4082",
+            "@type": "owl:Class",
+            "complementOf": "_:2c1e635be6a9c129b8132793cee4cc90"
+        },
+        {
+            "@id": "_:2c1e635be6a9c129b8132793cee4cc90",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P4082",
+            "someValuesFrom": "owl:Thing"
+        }
+    ],
+    "@context": {
+        "sdcdata": "https://commons.wikimedia.org/wiki/Special:EntityData/",
+        "schema": "http://schema.org/",
+        "about": {
+            "@id": "schema:about",
+            "@type": "@id"
+        },
+        "sdc": "https://commons.wikimedia.org/entity/",
+        "cc": "http://creativecommons.org/ns#",
+        "license": {
+            "@id": "cc:license",
+            "@type": "@id"
+        },
+        "softwareVersion": {
+            "@id": "schema:softwareVersion"
+        },
+        "version": {
+            "@id": "schema:version"
+        },
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "dateModified": {
+            "@id": "schema:dateModified",
+            "@type": "xsd:dateTime"
+        },
+        "wikibase": "http://wikiba.se/ontology#",
+        "wdt": "http://www.wikidata.org/prop/direct/",
+        "P275": {
+            "@id": "wdt:P275",
+            "@type": "@id"
+        },
+        "wd": "http://www.wikidata.org/entity/",
+        "P6216": {
+            "@id": "wdt:P6216",
+            "@type": "@id"
+        },
+        "P4082": {
+            "@id": "wdt:P4082",
+            "@type": "@id"
+        },
+        "p": "http://www.wikidata.org/prop/",
+        "sdcs": "https://commons.wikimedia.org/entity/statement/",
+        "p:P275": {
+            "@type": "@id"
+        },
+        "rank": {
+            "@id": "wikibase:rank",
+            "@type": "@id"
+        },
+        "ps": "http://www.wikidata.org/prop/statement/",
+        "ps:P275": {
+            "@type": "@id"
+        },
+        "p:P6216": {
+            "@type": "@id"
+        },
+        "ps:P6216": {
+            "@type": "@id"
+        },
+        "p:P4082": {
+            "@type": "@id"
+        },
+        "ps:P4082": {
+            "@type": "@id"
+        },
+        "encodingFormat": {
+            "@id": "schema:encodingFormat"
+        },
+        "contentUrl": {
+            "@id": "schema:contentUrl",
+            "@type": "@id"
+        },
+        "url": {
+            "@id": "schema:url",
+            "@type": "@id"
+        },
+        "contentSize": {
+            "@id": "schema:contentSize"
+        },
+        "height": {
+            "@id": "schema:height"
+        },
+        "width": {
+            "@id": "schema:width"
+        },
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "label": {
+            "@id": "rdfs:label"
+        },
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "prefLabel": {
+            "@id": "skos:prefLabel"
+        },
+        "name": {
+            "@id": "schema:name"
+        },
+        "description": {
+            "@id": "schema:description"
+        },
+        "propertyType": {
+            "@id": "wikibase:propertyType",
+            "@type": "@id"
+        },
+        "directClaim": {
+            "@id": "wikibase:directClaim",
+            "@type": "@id"
+        },
+        "claim": {
+            "@id": "wikibase:claim",
+            "@type": "@id"
+        },
+        "statementProperty": {
+            "@id": "wikibase:statementProperty",
+            "@type": "@id"
+        },
+        "statementValue": {
+            "@id": "wikibase:statementValue",
+            "@type": "@id"
+        },
+        "psv": "http://www.wikidata.org/prop/statement/value/",
+        "qualifier": {
+            "@id": "wikibase:qualifier",
+            "@type": "@id"
+        },
+        "pq": "http://www.wikidata.org/prop/qualifier/",
+        "qualifierValue": {
+            "@id": "wikibase:qualifierValue",
+            "@type": "@id"
+        },
+        "pqv": "http://www.wikidata.org/prop/qualifier/value/",
+        "reference": {
+            "@id": "wikibase:reference",
+            "@type": "@id"
+        },
+        "pr": "http://www.wikidata.org/prop/reference/",
+        "referenceValue": {
+            "@id": "wikibase:referenceValue",
+            "@type": "@id"
+        },
+        "prv": "http://www.wikidata.org/prop/reference/value/",
+        "novalue": {
+            "@id": "wikibase:novalue",
+            "@type": "@id"
+        },
+        "wdno": "http://www.wikidata.org/prop/novalue/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "complementOf": {
+            "@id": "owl:complementOf",
+            "@type": "@id"
+        },
+        "onProperty": {
+            "@id": "owl:onProperty",
+            "@type": "@id"
+        },
+        "someValuesFrom": {
+            "@id": "owl:someValuesFrom",
+            "@type": "@id"
+        }
+    }
+}

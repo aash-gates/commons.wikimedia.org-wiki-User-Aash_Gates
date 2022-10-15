@@ -1,0 +1,17 @@
+<https://commons.wikimedia.org/wiki/Special:EntityData/M124229355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Dataset> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M124229355> <http://schema.org/about> <https://commons.wikimedia.org/entity/M124229355> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M124229355> <http://creativecommons.org/ns#license> <http://creativecommons.org/publicdomain/zero/1.0/> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M124229355> <http://schema.org/softwareVersion> "1.0.0" .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M124229355> <http://schema.org/version> "696547922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M124229355> <http://schema.org/dateModified> "2022-10-15T18:19:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://commons.wikimedia.org/entity/M124229355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Mediainfo> .
+<https://commons.wikimedia.org/entity/M124229355> <http://schema.org/caption> "Aash With Teacher"@en .
+<https://commons.wikimedia.org/entity/M124229355> <http://www.w3.org/2000/01/rdf-schema#label> "Aash With Teacher"@en .
+<https://commons.wikimedia.org/entity/M124229355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<https://commons.wikimedia.org/entity/M124229355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<https://commons.wikimedia.org/entity/M124229355> <http://schema.org/encodingFormat> "image/jpeg" .
+<https://commons.wikimedia.org/entity/M124229355> <http://schema.org/contentUrl> <https://upload.wikimedia.org/wikipedia/commons/5/57/Aash_With_Teacher.jpg> .
+<https://commons.wikimedia.org/entity/M124229355> <http://schema.org/url> <http://commons.wikimedia.org/wiki/Special:FilePath/Aash%20With%20Teacher.jpg> .
+<https://commons.wikimedia.org/entity/M124229355> <http://schema.org/contentSize> "109444"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/entity/M124229355> <http://schema.org/height> "863"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/entity/M124229355> <http://schema.org/width> "889"^^<http://www.w3.org/2001/XMLSchema#integer> .

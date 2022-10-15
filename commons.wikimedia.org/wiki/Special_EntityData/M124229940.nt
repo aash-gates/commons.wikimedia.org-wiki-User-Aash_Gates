@@ -1,0 +1,17 @@
+<https://commons.wikimedia.org/wiki/Special:EntityData/M124229940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Dataset> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M124229940> <http://schema.org/about> <https://commons.wikimedia.org/entity/M124229940> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M124229940> <http://creativecommons.org/ns#license> <http://creativecommons.org/publicdomain/zero/1.0/> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M124229940> <http://schema.org/softwareVersion> "1.0.0" .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M124229940> <http://schema.org/version> "696547920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M124229940> <http://schema.org/dateModified> "2022-10-15T18:19:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://commons.wikimedia.org/entity/M124229940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Mediainfo> .
+<https://commons.wikimedia.org/entity/M124229940> <http://schema.org/caption> "Aash Gates at EPCET"@en .
+<https://commons.wikimedia.org/entity/M124229940> <http://www.w3.org/2000/01/rdf-schema#label> "Aash Gates at EPCET"@en .
+<https://commons.wikimedia.org/entity/M124229940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<https://commons.wikimedia.org/entity/M124229940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<https://commons.wikimedia.org/entity/M124229940> <http://schema.org/encodingFormat> "image/jpeg" .
+<https://commons.wikimedia.org/entity/M124229940> <http://schema.org/contentUrl> <https://upload.wikimedia.org/wikipedia/commons/c/c1/Aash_Gates_at_EPCET.jpg> .
+<https://commons.wikimedia.org/entity/M124229940> <http://schema.org/url> <http://commons.wikimedia.org/wiki/Special:FilePath/Aash%20Gates%20at%20EPCET.jpg> .
+<https://commons.wikimedia.org/entity/M124229940> <http://schema.org/contentSize> "1233849"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/entity/M124229940> <http://schema.org/height> "2484"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/entity/M124229940> <http://schema.org/width> "3358"^^<http://www.w3.org/2001/XMLSchema#integer> .
